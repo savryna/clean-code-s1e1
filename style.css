@@ -175,3 +175,11 @@ button{
 .incomplete-tasks__item_edit .label-elem {
   display: none;
 }
+
+.app-title {
+  position: absolute;
+  clip-path: circle(0%);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+}
